@@ -1,0 +1,78 @@
+#: locale=en
+
+## Action
+
+### URL
+LinkBehaviour_3E82AAD2_318F_29A9_41B9_01226DA07C48.source = https://pasirputih.id/
+LinkBehaviour_258DF11E_3186_F8D9_41C5_AA0466C540A7.source = https://pasirputih.id/
+WebFrame_2116C466_3185_3968_41A5_419879269353_mobile.url = https://www.google.com/maps/embed?pb=!4v1710228364654!6m8!1m7!1shLS1tszRpcQlw_m4RIqD-A!2m2!1d-8.408393941722522!2d116.1013838138549!3f174.75346468121447!4f-8.326203912430273!5f0.7820865974627469
+WebFrame_2116C466_3185_3968_41A5_419879269353.url = https://www.google.com/maps/embed?pb=!4v1710228364654!6m8!1m7!1shLS1tszRpcQlw_m4RIqD-A!2m2!1d-8.408393941722522!2d116.1013838138549!3f174.75346468121447!4f-8.326203912430273!5f0.7820865974627469
+
+## Media
+
+### Title
+panorama_0A68CAED_1CC8_EE25_41B9_F8866CF48707.label = R0012973
+panorama_09200231_1CC8_DE3D_41B1_CCEA5183DCDB.label = R0012974
+panorama_0921B95A_1CC8_AA6E_41A8_5DDEB582F071.label = R0012975
+panorama_093E7060_1CC8_BA5B_41AF_20C13E310CD2.label = R0012976
+panorama_092127BE_1CC8_A626_41A5_1171D687E3A6.label = R0012977
+panorama_093EAEA2_1CC8_A6DE_41A6_741D8757601D.label = R0012978
+panorama_093F3640_1CC9_665B_41B1_90D1B1261778.label = R0012979
+panorama_114AE207_1CCB_59E5_41A9_1F2275267F86.label = R0013024
+panorama_171FF7F5_1CCB_6625_41A4_A111D61A28E0.label = R0013025
+panorama_1719B198_1CCB_5AEA_41B6_FCD66F854676.label = R0013026
+panorama_171E1B9F_1CCB_AEE6_41BB_F12A02591751.label = R0013027
+panorama_17198531_1CCB_BA3D_41BA_B1B4B7414757.label = R0013028
+panorama_171E1E81_1CCB_A6DD_4197_9230AED23AE9.label = R0013029
+panorama_171E679E_1CCB_E6E7_41BA_98C2B554A44B.label = R0013030
+panorama_171E6088_1CCB_FAEB_412A_4BE2FEEDEF60.label = R0013031
+panorama_1719A9A7_1CCB_EA26_41A3_D4339D3E5AC9.label = R0013032
+panorama_171EF39C_1CCB_DEEB_41B1_4B17A9D4FC17.label = R0013033
+panorama_171EDD3F_1CCB_AA25_4146_9CDFDA5F5C85.label = R0013034
+panorama_171F0723_1CCB_A7DD_4196_A03EA6387396.label = R0013035
+panorama_171F90C7_1CCB_5A66_41B3_2F46FC333038.label = R0013036
+panorama_171F0A7A_1CCB_6E2F_416A_9AC7F5CCE382.label = R0013037
+panorama_171FE3DA_1CCB_7E6F_4163_3831DB7C686D.label = R0013038
+panorama_171F1DC0_1CCB_6A5B_41A6_6FFB69D887C9.label = R0013039
+panorama_171FF763_1CC8_A65E_41B1_7BC256C7150F.label = R0013040
+panorama_171F294A_1CC8_AA6E_41B1_FDD7A500456C.label = R0013042
+panorama_171CE299_1CC8_DEEA_41BA_82C3C006E6DE.label = R0013043
+panorama_171F7BD8_1CC8_EE6A_41B6_4582BC789344.label = R0013044
+panorama_171CD559_1CC8_FA6D_4190_B62065957DC6.label = R0013045
+panorama_171F0E76_1CC8_E626_4190_369F2614454E.label = R0013046
+panorama_171CC809_1CC8_A9ED_4184_27B1DA53489F.label = R0013047
+panorama_171CE1CE_1CC8_BA67_41B4_29635ED993D2.label = R0013048
+panorama_171C9B2D_1CC8_AE2A_4182_0A6EE46BEC4F.label = R0013049
+panorama_171DE4E0_1CC9_5A5B_41BB_C9271832C7AE.label = R0013050
+panorama_171D6F08_1CC9_67EB_41A0_830AD4F03547.label = R0013051
+
+## Skin
+
+### Button
+Button_3D37C388_3183_1FB9_41B7_9B6DD33314DC.label = ARTWORKS
+Button_3D37C388_3183_1FB9_41B7_9B6DD33314DC_mobile.label = ARTWORKS
+Button_3D379388_3183_1FB9_41C5_DEEC96B9FAFF_mobile.label = HOME
+Button_3D379388_3183_1FB9_41C5_DEEC96B9FAFF.label = HOME
+Button_3D37F388_3183_1FB9_41C3_F744308B1938_mobile.label = LOCATION
+Button_3D37F388_3183_1FB9_41C3_F744308B1938.label = LOCATION
+Button_3D37E388_3183_1FB9_4183_79F87CB901CE_mobile.label = PANORAMA LIST
+Button_3D37E388_3183_1FB9_4183_79F87CB901CE.label = PANORAMA LIST
+
+### Image
+Image_3D281387_3183_1FB7_41BB_0FD8F9D29691.url = skin/Image_3D281387_3183_1FB7_41BB_0FD8F9D29691_en.png
+Image_3D281387_3183_1FB7_41BB_0FD8F9D29691_mobile.url = skin/Image_3D281387_3183_1FB7_41BB_0FD8F9D29691_mobile_en.png
+
+### Multiline Text
+HTMLText_3FE8B54C_318D_78B9_41C5_14C210F8DBFF_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:1.9230769230769231vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.92vh;font-family:'Bahnschrift Light Condensed';">Jalan Raya Pemenang No.7 RT.01 RW.00 Karang Subagan Daya, Pemenang Bar., Kec. Pemenang, Kabupaten Lombok Utara, Nusa Tenggara Bar. 83352</SPAN></SPAN></DIV></div>
+HTMLText_3FE8B54C_318D_78B9_41C5_14C210F8DBFF.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.7322404371584703vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:2.73vh;font-family:'Bahnschrift Light Condensed';">Jalan Raya Pemenang No.7 RT.01 RW.00 Karang Subagan Daya, Pemenang Bar., Kec. Pemenang, Kabupaten Lombok Utara, Nusa Tenggara Bar. 83352</SPAN></SPAN></DIV></div>
+HTMLText_3FE8554C_318D_78B9_41C6_608F867CA748_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:6.199999999999999vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.2vh;font-family:'Bahnschrift SemiLight';">LOCATION</SPAN></SPAN></DIV></div>
+HTMLText_3FE8554C_318D_78B9_41C6_608F867CA748.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:6.199999999999999vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.2vh;font-family:'Bahnschrift SemiLight';">LOCATION</SPAN></SPAN></DIV></div>
+HTMLText_3E5A778B_319D_67BF_41C2_89FC81DA84FE_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:1.794871794871795vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#987b55;font-size:1.79vh;font-family:'Otama.ep';"><B>PANORAMA LIST:</B></SPAN></SPAN></DIV></div>
+HTMLText_3E5A778B_319D_67BF_41C2_89FC81DA84FE.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.9100000000000006vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#987b55;font-size:3.91vh;font-family:'Otama.ep';"><B>PANORAMA LIST:</B></SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Pasir Putih Collective
